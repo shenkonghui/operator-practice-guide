@@ -5,7 +5,7 @@
 
 
 1. 基础知识
-   1. 云原生趋势
+   1. operator概念
    2. 有状态应用
    3. client-go
 2. controller入门
